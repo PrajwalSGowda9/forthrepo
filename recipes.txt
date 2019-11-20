@@ -9,6 +9,3 @@ pizza
 regards   
 
 final in could have
-=======
-final
-
